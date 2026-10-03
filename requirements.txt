@@ -1,0 +1,8 @@
+runpod>=1.7.0
+opencv-python-headless
+numpy
+torch
+torchvision
+torchaudio
+insightface
+onnxruntime-gpu
